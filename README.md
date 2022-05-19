@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangoGoForward&hide=stars&show_icons=true&theme=cobalt)](https://github.com/mangoGoForward)
+[![Anurag's GitHub stats](https://github-readme-stats-drab-ten-62.vercel.app/api?username=mangoGoForward&hide=stars&show_icons=true&theme=cobalt)](https://github.com/mangoGoForward/github-readme-stats)
 
 <!--
 **mangoGoForward/mangoGoForward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
